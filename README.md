@@ -3,4 +3,6 @@
 
 I am Full Stack Developer, living in Saint Petersburg.
 
-📫 Keep in touch - daniil@tsivinsky.com
+:mailbox_with_mail: Keep in touch - daniil@tsivinsky.com
+
+:rocket: website - tsivinsky.com
