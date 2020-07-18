@@ -13,4 +13,4 @@ Some cool projects:
 
 ## My stats 📊
 
-[![My stats](https://github-readme-stats.vercel.app/api?username=tsivinsky)](https://github.com/anuraghazra/github-readme-stats)
+[![My stats](https://github-readme-stats.vercel.app/api?username=tsivinsky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
