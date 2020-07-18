@@ -9,6 +9,7 @@ I am Full Stack Developer, living in Saint Petersburg :ru:.
 Some cool projects:
 - [Todo App](https://todo.tsivinsky.com)
 - [Pomodoro Timer](https://pomo.tsivinsky.com)
+- [Tic Tac Toe](https://tic-tac-toe.tsivinsky.com)
 
 ## My stats 📊
 
