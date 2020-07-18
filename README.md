@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Hey 👋
 
 I am Full Stack Developer, living in Saint Petersburg :ru:.
 
@@ -10,3 +9,7 @@ I am Full Stack Developer, living in Saint Petersburg :ru:.
 Some cool projects:
 - [Todo App](https://todo.tsivinsky.com)
 - [Pomodoro Timer](https://pomo.tsivinsky.com)
+
+## My stats 📊
+
+[![My stats](https://github-readme-stats.vercel.app/api?username=tsivinsky)](https://github.com/anuraghazra/github-readme-stats)
