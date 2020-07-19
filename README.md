@@ -12,9 +12,9 @@ I am Full Stack Developer, living in Saint Petersburg :ru:.
 
 ## Done ✅
 
-- [Pomodoro Timer](https://pomo.tsivinsky.com/)
-- [Tic Tac Toe](https://tic-tac-toe.tsivinsky.com/)
+- [Pomodoro Timer](https://github.com/tsivinsky/pomo-timer/)
+- [Tic Tac Toe](https://github.com/tsivinsky/tic-tac-toe/)
 
 ## Currently working on
 
-- [Todo App](https://todo.tsivinsky.com)
+- [Todo App](https://github.com/tsivinsky/todo-app/)
