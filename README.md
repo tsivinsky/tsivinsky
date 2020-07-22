@@ -4,7 +4,7 @@ I am Full Stack Developer, living in Saint Petersburg :ru:.
 
 📬 Keep in touch - daniil@tsivinsky.com
 
-🚀 Portfolio - tsivinsky.com
+🚀 Portfolio - [tsivinsky.com](https://tsivinsky.com)
 
 ## My stats 📊
 
