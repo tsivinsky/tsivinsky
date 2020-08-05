@@ -12,7 +12,6 @@ I am Full Stack Developer, living in Saint Petersburg :ru:.
 
 ## Done ✅
 
-- [Pomodoro Timer](https://pomo.tsivinsky.com/)
 - [Tic Tac Toe](https://tic-tac-toe.tsivinsky.com/)
 
 ## Currently working on
