@@ -13,7 +13,4 @@ I am Full Stack Developer, living in Saint Petersburg :ru:.
 ## Done ✅
 
 - [Tic Tac Toe](https://tic-tac-toe.tsivinsky.com/)
-
-## Currently working on
-
-- [Todo App](https://todo.tsivinsky.com/)
+- [ToDo App](https://todo.tsivinsky.com/)
