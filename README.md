@@ -14,3 +14,4 @@ I am Full Stack Developer, living in Saint Petersburg :ru:.
 
 - [Tic Tac Toe](https://tic-tac-toe.tsivinsky.com/)
 - [ToDo App](https://todo.tsivinsky.com/)
+- [Snake](https://snake.tsivinsky.com/)
