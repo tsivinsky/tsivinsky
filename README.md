@@ -1,20 +1,7 @@
 ## Hey 👋
 
-I am Full Stack Developer, living in Saint Petersburg :ru:.
+I am Junior Full Stack Developer, living in Saint Petersburg :ru:.
 
-## Contact
+I study at local college and love the programming. In the last time, I prefer to work on backend stuff.
 
- - [Portfolio](https://tsivinsky.com)
- - [Email](mailto:daniil@tsivinsky.com)
- - [LinkedIn](https://www.linkedin.com/in/tsivinsky/)
- - [Twitter](https://twitter.com/tsivinsky17)
- - [Telegram](https://t.me/tsivinsky)
-
-## My stats 📊
-
-[![My stats](https://github-readme-stats.vercel.app/api?username=tsivinsky&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-## Done ✅
-
-- [Tic Tac Toe](https://tic-tac-toe.tsivinsky.com/)
-- [ToDo App](https://todo.tsivinsky.com/)
+Currently, I am working on [Wishlify](https://github.com/tsivinsky/wishlify).
