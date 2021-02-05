@@ -10,19 +10,8 @@ I love to:
  - Take screenshots from games
  - Find ways to deal with anxiety
 
-## Goals for 2021
+## Reach me out
 
-Technologies I want to learn:
- - TypeScript
- - GraphQL
- - WebSockets
- - Docker
- - JavaScript ES6-12
- - Rollup.js
- - Styled-components
-
-Projects I want to create (or complete):
- - Wishlify
- - Usable ToDo App
- - Be Notified bot
- - Deployments bot
+Website: [tsivinsky.com](https://tsivinsky.com)<br />
+Email: [daniil@tsivinsky.com](mailto:daniil@tsivinsky.com)<br />
+Twitter: [@daniilcodes](https://twitter.com/daniilcodes)
