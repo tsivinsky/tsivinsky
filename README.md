@@ -7,7 +7,6 @@ Currently, I'm on my last year at college, preparing for exams. Wish me luck.
 
  - 💻 code;
  - 🎮 video games;
- - 📷 photography, a little bit;
 
 ## Reach me out
 
