@@ -1,12 +1,11 @@
 ## Hey :wave:
 
-I'm a Junior Full Stack Developer based in Saint Petersburg, Russia :ru:.<br />
-Currently, I'm on my last year at college, preparing for exams. Wish me luck.
+I'm a Junior Full Stack Developer based in Saint Petersburg, Russia :ru:.
 
 ## I'm passionate about
 
- - 💻 code;
- - 🎮 video games;
+- 💻 code;
+- 🎮 video games;
 
 ## Reach me out
 
