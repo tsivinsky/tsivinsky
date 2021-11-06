@@ -1,6 +1,8 @@
 ## Hey :wave:
 
-I'm a Junior Full Stack Developer based in Saint Petersburg, Russia :ru:.
+I'm developer based in Saint Petersburg, Russia 🇷🇺
+
+I love coding, playing video games and tinkering my Arch Linux desktop.
 
 ## I'm passionate about
 
