@@ -4,11 +4,6 @@ I'm developer based in Saint Petersburg, Russia 🇷🇺
 
 I love coding, playing video games and tinkering my Arch Linux desktop.
 
-## I'm passionate about
-
-- 💻 code;
-- 🎮 video games;
-
 ## Reach me out
 
 Website: [tsivinsky.com](https://tsivinsky.com)<br />
