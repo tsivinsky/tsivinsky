@@ -1,8 +1,6 @@
-## Hey :wave:
+# Daniil Tsivinsky
 
-I'm developer based in Saint Petersburg, Russia 🇷🇺
-
-I love coding, playing video games and tinkering my Arch Linux desktop.
+![Me in Go](me.go.png)
 
 ## Reach me out
 
@@ -10,6 +8,17 @@ Website: [tsivinsky.com](https://tsivinsky.com)<br />
 Email: [daniil@tsivinsky.com](mailto:daniil@tsivinsky.com)<br />
 Twitter: [@daniilcodes](https://twitter.com/daniilcodes)
 
-## GitHub Streak
+## My favourites
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tsivinsky&theme=ayu-mirage&hide_border=true)](https://git.io/streak-stats)
+*in not a particular order*
+
+#### [Neo]vim
+> Just the best terminal text editor that ever exist
+#### Arch Linux
+> Operating System of the healthy man, without crap
+#### Go
+> Minimalistic programming language with great powers
+#### Svelte
+> Easy to learn and to use JavaScript framework (or library, or compiler)
+</details>
+
