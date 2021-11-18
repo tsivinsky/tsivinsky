@@ -1,7 +1,5 @@
 # Daniil Tsivinsky
 
-![Me in Go](me.go.png)
-
 ## Reach me out
 
 Website: [tsivinsky.com](https://tsivinsky.com)<br />
@@ -20,5 +18,3 @@ Twitter: [@daniilcodes](https://twitter.com/daniilcodes)
 > Minimalistic programming language with great powers
 #### Svelte
 > Easy to learn and to use JavaScript framework (or library, or compiler)
-</details>
-
