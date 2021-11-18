@@ -1,5 +1,8 @@
 # Daniil Tsivinsky
 
+Sometimes, I play video games on my PS4 and here's my PSN profile badge.
+[![PSN profile](https://card.psnprofiles.com/1/tsivinsky17.png)](https://psnprofiles.com/tsivinsky17)
+
 ## Reach me out
 
 Website: [tsivinsky.com](https://tsivinsky.com)<br />
