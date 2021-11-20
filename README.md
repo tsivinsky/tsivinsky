@@ -1,3 +1,9 @@
+## About me
+
+```bash
+curl -s https://raw.githubusercontent.com/tsivinsky/tsivinsky/master/tsivinsky.sh | bash
+```
+
 ## My favourites
 
 *in not a particular order*
