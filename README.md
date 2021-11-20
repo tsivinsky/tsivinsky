@@ -1,7 +1,7 @@
 ## About me
 
 ```bash
-curl -s https://raw.githubusercontent.com/tsivinsky/tsivinsky/master/tsivinsky.sh | bash
+curl -sL https://tsivinsky.com/sh | bash
 ```
 
 ## My favourites
