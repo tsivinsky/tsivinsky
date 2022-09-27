@@ -1,25 +1,15 @@
-## About me
+- codes in TypeScript;
+- wants to learn Go;
+- plays video games;
+- uses [neovim](https://github.com/neovim/neovim);
+- runs [arch linux](https://archlinux.org/), btw;
+- tries to join the mechanical keyboard community;
+- has [reddit](https://www.reddit.com/user/daniil-tsivinsky);
 
-```bash
-curl -sL https://tsivinsky.com/sh | bash
-```
-
-## My favourites
-
-_in not a particular order_
-
-#### [Neo]vim
-
-> Just the best terminal text editor that ever exist
-
-#### Arch Linux
-
-> Operating System of the healthy man, without crap
-
-#### Go
-
-> Minimalistic programming language with great powers
-
-#### Svelte
-
-> Easy to learn and to use JavaScript framework (or library, or compiler)
+<details>
+  <summary><h4>my mechanical keyboard</h4></summary>
+  
+  Keychron K6 with hotswap. currently using holy pandas with PBT keycaps; all came from Aliexpress :)
+  
+  <img src="./keyboard.jpg" alt="keyboard should be here" />
+</details>
