@@ -20,3 +20,5 @@
 - [url shortener built w/ Go](https://github.com/tsivinsky/url-shortener) - simple url shortener which i use to learn more about Go and its ecosystem;
 - [gget](https://github.com/tsivinsky/gget) - cli utility for downloading files from GitHub;
 - [wishlify](https://github.com/tsivinsky/wishlify) - kinda my own magnum opus which i hope finishing and releasing someday;
+
+peace ✌️
