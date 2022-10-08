@@ -9,7 +9,7 @@
 <details>
   <summary><h4>my mechanical keyboard</h4></summary>
   
-  Keychron K6 with hotswap. currently using holy pandas with PBT keycaps; all came from Aliexpress :)
+  Keychron K6 with hotswap. currently using Gateron pro milk yellow with PBT keycaps; all came from Aliexpress :)
   
   <img src="./keyboard.jpg" alt="keyboard should be here" />
 </details>
