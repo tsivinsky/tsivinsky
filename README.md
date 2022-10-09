@@ -14,6 +14,8 @@
   <img src="./keyboard.jpg" alt="keyboard should be here" />
 </details>
 
+### [my blog (kinda)](https://github.com/tsivinsky/blog)
+
 ### some of my projects
 
 - [use-confirm](https://github.com/tsivinsky/use-confirm) - lib for asynchronously confirm user actions in React apps;
