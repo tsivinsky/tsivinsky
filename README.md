@@ -4,7 +4,7 @@
 - uses [neovim](https://github.com/neovim/neovim);
 - runs [arch linux](https://archlinux.org/), btw;
 - tries to join the mechanical keyboard community;
-- has [reddit](https://www.reddit.com/user/daniil-tsivinsky) and [discord](https://discordapp.com/users/tsivinsky);
+- has [reddit](https://www.reddit.com/user/daniil-tsivinsky);
 
 <details>
   <summary><h4>my mechanical keyboard</h4></summary>
