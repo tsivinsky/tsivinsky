@@ -5,7 +5,7 @@
 - runs [arch linux](https://archlinux.org/), btw;
 - tries to join the mechanical keyboard community;
 - has [reddit](https://www.reddit.com/user/daniil-tsivinsky);
-- hoards domains ([hi-mom](http://hi-mom.ru), [zatch](http://zatch.ru));
+- hoards domains ([hi-mom.ru](http://hi-mom.ru), [zatch.ru](http://zatch.ru), [laqm.ru](http://laqm.ru));
 
 <details>
   <summary><h4>my mechanical keyboard</h4></summary>
