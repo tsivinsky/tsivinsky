@@ -10,7 +10,7 @@
 <details>
   <summary><h4>my mechanical keyboard</h4></summary>
   
-  Keychron K6 with hotswap. currently using Gateron pro milk yellow with PBT keycaps; all came from Aliexpress :)
+  Keychron K6 with hotswap. currently using [tactile fruit switches](https://zatch.ru/red-fruit-switches) and [blank dot keycaps](https://zatch.ru/dot-keycaps); all came from Aliexpress :)
   
   <img src="./keyboard.jpg" alt="keyboard should be here" />
 </details>
