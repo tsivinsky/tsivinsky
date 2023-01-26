@@ -24,4 +24,9 @@
 - [gget](https://github.com/tsivinsky/gget) - cli utility for downloading files from GitHub;
 - [wishlify](https://github.com/tsivinsky/wishlify) - kinda my own magnum opus which i hope finishing and releasing someday;
 
+<details>
+  <summary>Wanna see funny meme about vim?</summary>
+  <img src="https://fileasy.ru/vim.png" alt="vim meme" />
+</details>
+
 peace ✌️
