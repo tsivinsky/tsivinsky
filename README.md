@@ -15,7 +15,7 @@
   <img src="./keyboard.jpg" alt="keyboard should be here" />
 </details>
 
-### [my blog (kinda)](https://github.com/tsivinsky/blog)
+### [my blog](https://tsivinsky.com/blog)
 
 ### some of my projects
 
