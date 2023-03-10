@@ -12,7 +12,7 @@
 
 Akko ACR Pro Alice Plus
 
-  <img src="./keyboard.jpg" alt="keyboard should be here" />
+  <img src="https://fileasy.ru/keyboard.jpg" alt="keyboard should be here" />
 </details>
 
 ### [my blog](https://tsivinsky.com/blog)
