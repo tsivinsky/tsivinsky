@@ -9,9 +9,9 @@
 
 <details>
   <summary><h4>my mechanical keyboard</h4></summary>
-  
-  Keychron K6 with hotswap. currently using [tactile fruit switches](https://zatch.ru/red-fruit-switches) and [blank dot keycaps](https://zatch.ru/dot-keycaps); all came from Aliexpress :)
-  
+
+Akko ACR Pro Alice Plus
+
   <img src="./keyboard.jpg" alt="keyboard should be here" />
 </details>
 
