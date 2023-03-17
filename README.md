@@ -7,16 +7,6 @@
 - has [reddit](https://www.reddit.com/user/daniil-tsivinsky);
 - hoards domains;
 
-<details>
-  <summary><h4>my mechanical keyboard</h4></summary>
-
-Akko ACR Pro Alice Plus
-
-  <img src="https://fileasy.ru/keyboard.jpg" alt="keyboard should be here" />
-</details>
-
-### [my blog](https://tsivinsky.com/blog)
-
 ### some of my projects
 
 - [use-confirm](https://github.com/tsivinsky/use-confirm) - lib for asynchronously confirm user actions in React apps;
