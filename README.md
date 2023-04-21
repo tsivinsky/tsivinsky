@@ -1,5 +1,5 @@
-- codes in TypeScript;
-- learns Go;
+- codes in TypeScript and Go;
+- learns about backend;
 - plays video games;
 - uses [neovim](https://github.com/neovim/neovim);
 - runs [arch linux](https://archlinux.org/), btw;
