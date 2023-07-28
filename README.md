@@ -7,5 +7,6 @@
 - hoards domains;
 - spends money on mechanical keyboards and tech stuff while living with parents;
 - in constant fight with internal thoughts to burn his code to the ground;
+- can't finish any of projects;
 
 peace ✌️
