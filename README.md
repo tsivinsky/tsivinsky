@@ -9,5 +9,6 @@
 - in constant fight with internal thoughts to burn his code to the ground;
 - can't finish any of projects;
 - my self-esteem is so low, that everytime someone finds it, it's called an archeological discovery;
+- hates making charts (especially interactive ones);
 
 peace ✌️
