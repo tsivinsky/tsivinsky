@@ -1,6 +1,7 @@
 - codes in TypeScript and Go;
 - passive learner;
 - plays video games;
+- owns a [steam deck](https://steamdeck.com);
 - uses [neovim](https://github.com/neovim/neovim);
 - runs [arch linux](https://archlinux.org/), btw;
 - has [reddit](https://www.reddit.com/user/daniil-tsivinsky);
