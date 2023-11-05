@@ -1,6 +1,6 @@
 - codes in TypeScript and Go;
 - passive learner;
-- plays video games (new and old) - [my retroachievements](https://retroachievements.org/user/tsivinsky);
+- plays video games;
 - owns a [steam deck](https://steamdeck.com);
 - uses [neovim](https://github.com/neovim/neovim);
 - runs [arch linux](https://archlinux.org/), btw;
