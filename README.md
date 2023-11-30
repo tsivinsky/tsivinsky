@@ -1,16 +1,11 @@
+about me:
 - codes in TypeScript and Go;
-- passive learner;
-- plays video games;
-- owns a [steam deck](https://steamdeck.com);
-- uses [neovim](https://github.com/neovim/neovim);
-- runs [arch linux](https://archlinux.org/), btw;
-- has [reddit](https://www.reddit.com/user/daniil-tsivinsky);
-- hoards domains;
-- spends money on mechanical keyboards and tech stuff while living with parents;
-- in constant fight with internal thoughts to burn his code to the ground;
-- can't finish any of projects;
-- my self-esteem is so low, that everytime someone finds it, it's called an archeological discovery;
-- hates making charts (especially interactive ones);
-- full of skill issues;
+- runs [archlinux](https://archlinux.org);
+- uses [neovim](https://github.com/neovim/neovim) daily;
+- plays video games on [steam deck](https://steamdeck.com);
+
+some of my projects:
+- [sshx](https://github.com/tsivinsky/sshx) - cli for quickly connecting to ssh servers;
+- [goenv](https://github.com/tsivinsky/goenv) - go library for parsing env variables to struct;
 
 peace ✌️
