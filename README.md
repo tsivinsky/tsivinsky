@@ -1,4 +1,3 @@
-about me:
 - codes in TypeScript and Go;
 - runs [archlinux](https://archlinux.org);
 - uses [neovim](https://github.com/neovim/neovim) daily;
