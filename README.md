@@ -1,7 +1,7 @@
 ### about me
 - codes in TypeScript and Go;
 - runs [archlinux](https://archlinux.org);
-- uses [neovim](https://github.com/neovim/neovim) daily;
+- uses [neovim](https://github.com/neovim/neovim);
 - plays video games;
 
 ### some of my projects
