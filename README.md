@@ -5,7 +5,8 @@
 - plays video games;
 
 ### some of my projects
-- [sshx](https://github.com/tsivinsky/sshx) - cli for quickly connecting to ssh servers;
-- [goenv](https://github.com/tsivinsky/goenv) - go library for parsing env variables to struct;
+- [use-confirm](https://github.com/tsivinsky/use-confirm) - React hook alternative to built-in `confirm()` function to use with your own modal component
+- [sshx](https://github.com/tsivinsky/sshx) - cli written in Go to manage servers and quickly connect to them via ssh;
+- [goenv](https://github.com/tsivinsky/goenv) - Go library for parsing env variables to struct;
 
 peace ✌️
