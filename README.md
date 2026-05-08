@@ -1,3 +1,6 @@
+> [!NOTE]
+> I moved to [forgejo](https://git.tsivinsky.com)
+
 ### about me
 - codes in TypeScript and Go;
 - runs [archlinux](https://archlinux.org);
