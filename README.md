@@ -1,5 +1,5 @@
 > [!NOTE]
-> I moved to [forgejo](https://git.tsivinsky.com)
+> I moved to [forgejo](https://git.tsivinsky.com/tsivinsky)
 
 ### about me
 - codes in TypeScript and Go;
